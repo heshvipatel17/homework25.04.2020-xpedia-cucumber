@@ -1,0 +1,77 @@
+2020-04-28 23:04:376 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:90 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:297 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:971 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:821 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:960 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:399 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 23:04:433 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:282 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:209 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:729 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:920 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (67779fbeb708d4527c87047022cdcf74)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:935 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:947 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (1023a5a98a2a9d7dee2a06d63f6ca506)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:304 INFO  FlightsPage :42 -  Enter city name Dubai (DXB-All Airports) on flight from city [[ChromeDriver: chrome on WINDOWS (1023a5a98a2a9d7dee2a06d63f6ca506)] -> xpath: //input[@id='flight-origin-flp']]
+2020-04-29 10:04:944 INFO  FlightsPage :48 -  Enter city nameDelhi (DEL-Indira Gandhi Intl.) on flight to city[[ChromeDriver: chrome on WINDOWS (1023a5a98a2a9d7dee2a06d63f6ca506)] -> id: flight-destination-flp]
+2020-04-29 10:04:164 INFO  FlightsPage :54 -  Enter date08/07/2020 on departure date [[ChromeDriver: chrome on WINDOWS (1023a5a98a2a9d7dee2a06d63f6ca506)] -> id: flight-departing-flp]
+2020-04-29 10:04:900 INFO  FlightsPage :62 - Entering returning date : 09/08/2020 On returning date field : [[ChromeDriver: chrome on WINDOWS (1023a5a98a2a9d7dee2a06d63f6ca506)] -> id: flight-returning-flp]
+2020-04-29 10:04:377 INFO  FlightsPage :69 -  Clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='gcw-flights-form-flp']//button[contains(@class,'btn-primary btn-action gcw-submit')]'
+2020-04-29 10:04:384 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:700 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (bb3e83bbe139b42bd5fcb9c975b7286a)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:238 INFO  FlightsPage :42 -  Enter city name London (LON-All Airports) on flight from city [[ChromeDriver: chrome on WINDOWS (bb3e83bbe139b42bd5fcb9c975b7286a)] -> xpath: //input[@id='flight-origin-flp']]
+2020-04-29 10:04:712 INFO  FlightsPage :48 -  Enter city nameSydney (SYD-All Airports) on flight to city[[ChromeDriver: chrome on WINDOWS (bb3e83bbe139b42bd5fcb9c975b7286a)] -> id: flight-destination-flp]
+2020-04-29 10:04:159 INFO  FlightsPage :54 -  Enter date28/11/2020 on departure date [[ChromeDriver: chrome on WINDOWS (bb3e83bbe139b42bd5fcb9c975b7286a)] -> id: flight-departing-flp]
+2020-04-29 10:04:462 INFO  FlightsPage :62 - Entering returning date : 05/01/2021 On returning date field : [[ChromeDriver: chrome on WINDOWS (bb3e83bbe139b42bd5fcb9c975b7286a)] -> id: flight-returning-flp]
+2020-04-29 10:04:122 INFO  FlightsPage :69 -  Clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='gcw-flights-form-flp']//button[contains(@class,'btn-primary btn-action gcw-submit')]'
+2020-04-29 10:04:134 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:223 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (89a49a433b2a4fe45f4f1e2a78fbb6d1)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:811 INFO  FlightsPage :42 -  Enter city name Mumbai (BOM-Chhatrapati Shivaji Intl.) on flight from city [[ChromeDriver: chrome on WINDOWS (89a49a433b2a4fe45f4f1e2a78fbb6d1)] -> xpath: //input[@id='flight-origin-flp']]
+2020-04-29 10:04:338 INFO  FlightsPage :48 -  Enter city nameSingapore (SIN-All Airports) on flight to city[[ChromeDriver: chrome on WINDOWS (89a49a433b2a4fe45f4f1e2a78fbb6d1)] -> id: flight-destination-flp]
+2020-04-29 10:04:595 INFO  FlightsPage :54 -  Enter date27/05/2020 on departure date [[ChromeDriver: chrome on WINDOWS (89a49a433b2a4fe45f4f1e2a78fbb6d1)] -> id: flight-departing-flp]
+2020-04-29 10:04:852 INFO  FlightsPage :62 - Entering returning date : 05/06/2020 On returning date field : [[ChromeDriver: chrome on WINDOWS (89a49a433b2a4fe45f4f1e2a78fbb6d1)] -> id: flight-returning-flp]
+2020-04-29 10:04:137 INFO  FlightsPage :69 -  Clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='gcw-flights-form-flp']//button[contains(@class,'btn-primary btn-action gcw-submit')]'
+2020-04-29 10:04:148 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:882 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (36ff92abf8c2b6278b54be01e8a96d80)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:557 INFO  FlightsPage :42 -  Enter city name London (LON-All Airports) on flight from city [[ChromeDriver: chrome on WINDOWS (36ff92abf8c2b6278b54be01e8a96d80)] -> xpath: //input[@id='flight-origin-flp']]
+2020-04-29 10:04:283 INFO  FlightsPage :48 -  Enter city nameCape Town (CPT-Cape Town Intl.) on flight to city[[ChromeDriver: chrome on WINDOWS (36ff92abf8c2b6278b54be01e8a96d80)] -> id: flight-destination-flp]
+2020-04-29 10:04:609 INFO  FlightsPage :54 -  Enter date15/01/2021 on departure date [[ChromeDriver: chrome on WINDOWS (36ff92abf8c2b6278b54be01e8a96d80)] -> id: flight-departing-flp]
+2020-04-29 10:04:926 INFO  FlightsPage :62 - Entering returning date : 22/02/2021 On returning date field : [[ChromeDriver: chrome on WINDOWS (36ff92abf8c2b6278b54be01e8a96d80)] -> id: flight-returning-flp]
+2020-04-29 10:04:717 INFO  FlightsPage :69 -  Clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='gcw-flights-form-flp']//button[contains(@class,'btn-primary btn-action gcw-submit')]'
+2020-04-29 10:04:724 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:396 INFO  HomePage :28 - Clicking on flights tab : [[ChromeDriver: chrome on WINDOWS (5edfd8babafd7923d62029db0a1f9e57)] -> xpath: //a[@id='primary-header-flight']]
+2020-04-29 10:04:875 INFO  FlightsPage :42 -  Enter city name San Francisco, CA (SFO-San Francisco Intl.) on flight from city [[ChromeDriver: chrome on WINDOWS (5edfd8babafd7923d62029db0a1f9e57)] -> xpath: //input[@id='flight-origin-flp']]
+2020-04-29 10:04:444 INFO  FlightsPage :48 -  Enter city nameNew York (NYC-All Airports) on flight to city[[ChromeDriver: chrome on WINDOWS (5edfd8babafd7923d62029db0a1f9e57)] -> id: flight-destination-flp]
+2020-04-29 10:04:769 INFO  FlightsPage :54 -  Enter date15/08/2020 on departure date [[ChromeDriver: chrome on WINDOWS (5edfd8babafd7923d62029db0a1f9e57)] -> id: flight-departing-flp]
+2020-04-29 10:04:78 INFO  FlightsPage :62 - Entering returning date : 27/09/2020 On returning date field : [[ChromeDriver: chrome on WINDOWS (5edfd8babafd7923d62029db0a1f9e57)] -> id: flight-returning-flp]
+2020-04-29 10:04:942 INFO  FlightsPage :69 -  Clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='gcw-flights-form-flp']//button[contains(@class,'btn-primary btn-action gcw-submit')]'
+2020-04-29 10:04:967 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:675 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (7f30207a4ab73c335d4e8939912c9470)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:702 INFO  AccountPage :28 - verify signin pricing text[[ChromeDriver: chrome on WINDOWS (7f30207a4ab73c335d4e8939912c9470)] -> xpath: //div[@id='header-exclusive-deals']]
+2020-04-29 10:04:730 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:987 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:110 INFO  AccountPage :23 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-29 10:04:903 INFO  SignInPage :29 -  Enter email xyz13@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-29 10:04:59 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-29 10:04:178 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-29 10:04:207 INFO  SignInPage :46 -  verify message from signin page[[ChromeDriver: chrome on WINDOWS (06b667d464620b07ac7f5ddc84f649e1)] -> xpath: //p[@id='signInEmailErrorMessage']]
+2020-04-29 10:04:631 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:308 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (2213034eb315a0bb45433f78d44d74ea)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:341 INFO  AccountPage :28 - verify signin pricing text[[ChromeDriver: chrome on WINDOWS (2213034eb315a0bb45433f78d44d74ea)] -> xpath: //div[@id='header-exclusive-deals']]
+2020-04-29 10:04:366 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:57 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:213 INFO  AccountPage :23 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-29 10:04:910 INFO  SignInPage :29 -  Enter email xyz13@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-29 10:04:41 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-29 10:04:137 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-29 10:04:166 INFO  SignInPage :46 -  verify message from signin page[[ChromeDriver: chrome on WINDOWS (ff00fb7c715475f22695967e3cca35da)] -> xpath: //p[@id='signInEmailErrorMessage']]
+2020-04-29 10:04:845 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:926 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (9f43bfd56a8e1d2921676d12bf06840c)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:956 INFO  AccountPage :28 - verify signin pricing text[[ChromeDriver: chrome on WINDOWS (9f43bfd56a8e1d2921676d12bf06840c)] -> xpath: //div[@id='header-exclusive-deals']]
+2020-04-29 10:04:985 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:432 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //button[@id='header-account-menu']]
+2020-04-29 10:04:577 INFO  AccountPage :23 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-29 10:04:568 INFO  SignInPage :30 -  Enter email xyz13@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-29 10:04:725 INFO  SignInPage :36 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-29 10:04:846 INFO  SignInPage :42 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-29 10:04:876 INFO  SignInPage :47 -  verify message from signin page[[ChromeDriver: chrome on WINDOWS (d355872289acd357941cb2b915eaf8c2)] -> xpath: //p[@id='signInEmailErrorMessage']]
